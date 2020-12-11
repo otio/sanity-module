@@ -58,7 +58,7 @@
     "@nuxt/typescript-build": "2.0.3",
     "@nuxt/typescript-runtime": "2.0.0",
     "@nuxtjs/eslint-config-typescript": "5.0.0",
-    "@nuxtjs/tailwindcss": "3.3.3",
+    "@nuxtjs/tailwindcss": "3.3.4",
     "@release-it/conventional-changelog": "2.0.0",
     "@sanity/client": "2.1.0",
     "@types/fs-extra": "9.0.4",
