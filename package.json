@@ -44,7 +44,7 @@
     }
   },
   "resolutions": {
-    "rollup-plugin-esbuild": "2.3.0"
+    "rollup-plugin-esbuild": "2.6.1"
   },
   "dependencies": {
     "defu": "3.2.2"
