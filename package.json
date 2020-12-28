@@ -54,7 +54,7 @@
     "@babel/preset-env": "7.12.7",
     "@babel/preset-typescript": "7.12.7",
     "@nuxt/test-utils": "0.0.1",
-    "@nuxt/types": "2.14.10",
+    "@nuxt/types": "2.14.12",
     "@nuxt/typescript-build": "2.0.3",
     "@nuxt/typescript-runtime": "2.0.0",
     "@nuxtjs/eslint-config-typescript": "5.0.0",
@@ -71,7 +71,7 @@
     "jest": "26.6.3",
     "jest-serializer-vue-tjw": "3.15.0",
     "lint-staged": "10.5.3",
-    "nuxt-edge": "2.15.0-26789795.85bb9790",
+    "nuxt-edge": "2.15.0-26818605.b2e38f5c",
     "playwright": "1.6.2",
     "release-it": "14.2.2",
     "siroc": "0.6.0"
